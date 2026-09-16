@@ -20,7 +20,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module CS25B022_S6_Q1(input A,B,C,D,E, output Z);
+module CS25B047_S6_Q1(input A,B,C,D,E, output Z);
     wire a,b,c,d,e,f,g,h;
     not(a,A);
     not(b,B);
